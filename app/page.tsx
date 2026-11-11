@@ -4,6 +4,7 @@ export default function Home() {
     <>
       <section className="hero">
         <span className="eyebrow">NEXT.JS · LEARNING PROJECT</span>
+        <span>자동 배포 확인</span>
         <h1>
           하나의 프로젝트로 배우는
           <br />
